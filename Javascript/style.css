@@ -1,0 +1,20 @@
+body{
+    width:100vw;
+    height:100vh;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+}
+
+p{
+    margin-top:45%;
+    margin-left:-30%;
+}
+
+#box{
+    background-color:red;
+    height:100px;
+    width:100px;
+    
+}
